@@ -1,5 +1,5 @@
 # NIC-reader
-Extract text from NIC image
+Extract text from Mauritian NIC image using openCV and Tesseract.
 
 # Installation:
 pip install requirements.txt
